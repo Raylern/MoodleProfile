@@ -1,7 +1,7 @@
 # MoodleProfile
 a fake moodle profile
 
-This feature is first discovered by 就地免职.
+This feature is first discovered by cerebral Cortex.
 
 Steps:
 
