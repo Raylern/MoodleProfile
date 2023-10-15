@@ -1,7 +1,7 @@
 # MoodleProfile
 a fake moodle profile
 
-This feature is first discovered by cerebral Cortex.
+This feature is first discovered by [cerebral Cortex](https://github.com/cerebral-cortex).
 
 Steps:
 
