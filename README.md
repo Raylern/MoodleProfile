@@ -1,6 +1,8 @@
 # MoodleProfile
 a fake moodle profile
 
+This feature is first discovered by 就地免职.
+
 Steps:
 
 1. click edit the `edit profile` button
