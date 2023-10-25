@@ -6,6 +6,11 @@ This feature is first discovered by [cerebral Cortex](https://github.com/cerebra
 Steps:
 
 1. click edit the `edit profile` button
-2. copy the following [code](./code.txt) into the description
-3. don't forget to change some urls (to point to your moodle page) in the code.txt
-4. enjoy and play
+2. click the bottons to enter that html input mode
+3. copy the following [code](./code.txt) into the description
+4. don't forget to change some urls (to point to your moodle page) in the code.txt
+5. enjoy and play
+
+![image](https://github.com/Raylern/MoodleProfile/assets/102915621/e4a607c6-1b83-426a-8fbb-2df360ff4d99)
+
+
